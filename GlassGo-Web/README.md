@@ -22,7 +22,7 @@
 | Member                         | Code       |
 |--------------------------------|------------|
 | Guillermo Arturo Howard Robles | U202222275 |
-|                                |            |
+| Mike Dylan Guillen Giraldo     | U202211881 |
 |                                |            |
 |                                |            |
 |                                |            |
