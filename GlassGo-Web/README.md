@@ -22,7 +22,7 @@
 | Member                         | Code       |
 |--------------------------------|------------|
 | Guillermo Arturo Howard Robles | U202222275 |
-|                                |            |
+| Gerardo Valentin Palacin Lazo  | U20211C201 |
 |                                |            |
 |                                |            |
 |                                |            |
